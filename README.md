@@ -1,5 +1,7 @@
-Вычислить:
+Home work 1 tasks - compute given expressions.
+1. ![a=\frac{2\sin (x-\frac{\pi}{6})b}{\frac{1}{2}+\sin^{2}y};b=1+\frac{z^{2}}{3+\frac{Z^{2}}{5}}][task1]
 
-a=(2*cos(x-Pi/6)*b)/(1/2+sin^2(y))
+2. ![s=1+x+\frac{x^{2}}{2!}+\frac{x^{3}}{3!}+\frac{x^{4}}{4!};z=\sin{x^{3}}+\cos^{2}{y}][task2]
 
-b=1+(z^2/(3+z^2/5))
+[task1]: http://bit.ly/2aMvWSM
+[task2]: http://bit.ly/2aMwoQV
