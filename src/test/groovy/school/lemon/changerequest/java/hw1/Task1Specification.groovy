@@ -5,15 +5,16 @@ import spock.lang.Unroll
 
 import static spock.util.matcher.HamcrestMatchers.closeTo
 
+
 class Task1Specification extends Specification {
     @Unroll
-    def "calculateA should return #expectedResult for x=#x, y=#y, z=#z"() {
+    def "calculateP should return #expectedResult for a=#a"() {
         expect:
-        expectedResult closeTo(Task1.calculateA(x, y, z), 0.001)
+        expectedResult closeTo(Task1.calculateP(a), 0.001)
         where:
-        x    | y    | z     || expectedResult
-        1.45 | 1.22 | 3.5   || 4.424
-        1.23 | 2.25 | 5.6   || 11.012
-        -1   | 2.51 | -8.12 || 1.373
+        a    || expectedResult
+        1    || 4
+        2.5  || 10
+        3.35 || 13.4
     }
 }
