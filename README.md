@@ -23,10 +23,10 @@ Use `case` operator to solve this task.
 
 10. Determine whether a record of integer `n` contains digit `2`, if so - return `true`, else return `false`.
 
-[task1]: .images/task1.png
+[task1]: https://github.com/ChangeRequest/hw1/raw/master/.images/task1.png
 
-[task5]: .images/task5.png
+[task5]: https://github.com/ChangeRequest/hw1/raw/master/.images/task5.png
 
-[task6]: .images/task6.png
+[task6]: https://github.com/ChangeRequest/hw1/raw/master/.images/task6.png
 
-[task8]: .images/task8.png
+[task8]: https://github.com/ChangeRequest/hw1/raw/master/.images/task8.png
