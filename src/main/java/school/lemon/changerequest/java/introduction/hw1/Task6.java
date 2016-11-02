@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.hw1;
+package school.lemon.changerequest.java.introduction.hw1;
 
 public class Task6 {
     public static double calculateS(double x) {

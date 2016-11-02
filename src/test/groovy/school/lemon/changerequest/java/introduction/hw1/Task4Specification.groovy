@@ -1,4 +1,4 @@
-package school.lemon.changerequest.java.hw1
+package school.lemon.changerequest.java.introduction.hw1
 
 import spock.lang.Specification
 import spock.lang.Unroll
