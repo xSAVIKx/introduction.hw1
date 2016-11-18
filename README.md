@@ -1,6 +1,8 @@
 Introduction. Home Work 1
 -----------------------
 
+[![Join the chat at https://gitter.im/changerequest/introduction.hw1](https://badges.gitter.im/changerequest/introduction.hw1.svg)](https://gitter.im/changerequest/introduction.hw1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. ![P=4*a][task1].
 
 2. Return amount of full meters for given centimeters.
