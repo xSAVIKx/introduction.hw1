@@ -12,12 +12,12 @@ class Task8Specification extends Specification {
         where:
         N   || expectedResult
         1   || 5
-        2   || 54
-        3   || 199
-        4   || 492
-        5   || 985
-        6   || 1730
-        7   || 2779
-        372 || 445596604
+        2   || 29
+        3   || 86
+        4   || 190
+        5   || 355
+        6   || 595
+        7   || 924
+        372 || 120463334
     }
 }
