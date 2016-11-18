@@ -12,11 +12,11 @@ class Task6Specification extends Specification {
         expectedResult closeTo(Task6.calculateS(x), 0.001)
         where:
         x    || expectedResult
-        1.45 || 2.964
-        1.23 || 2.578
-        -1   || 0.133
+        1.45 || 4.193
+        1.23 || 3.391
+        -1   || 0.375
         0    || 1
-        4    || 12.466
+        4    || 34.333
     }
 
     @Unroll

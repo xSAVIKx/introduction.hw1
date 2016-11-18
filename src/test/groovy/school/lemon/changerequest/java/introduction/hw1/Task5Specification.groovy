@@ -12,8 +12,8 @@ class Task5Specification extends Specification {
         expectedResult closeTo(Task5.calculateA(x, y, z), 0.001)
         where:
         x    | y    | z     || expectedResult
-        1.45 | 1.22 | 3.5   || 4.424
-        1.23 | 2.25 | 5.6   || 11.012
-        -1   | 2.51 | -8.12 || 1.373
+        1.45 | 1.22 | 3.5   || 3.757
+        1.23 | 2.25 | 5.6   || 5.146
+        -1   | 2.51 | -8.12 || -11.943
     }
 }
