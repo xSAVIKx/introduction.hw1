@@ -16,7 +16,7 @@ class Task9Specification extends Specification {
         9  || true
         81 || true
         21 || false
-        1  || false
+        1  || true
         3  || true
         0  || false
     }
